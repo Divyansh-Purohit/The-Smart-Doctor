@@ -1,0 +1,605 @@
+{
+  "accuracy": 53.0,
+  "results": [
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "A",
+      "correct": true
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "A\n",
+      "predicted": "A",
+      "ground_truth": "C",
+      "correct": false
+    }
+  ]
+}

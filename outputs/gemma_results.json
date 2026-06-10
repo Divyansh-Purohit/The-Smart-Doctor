@@ -1,0 +1,605 @@
+{
+  "accuracy": 22.0,
+  "results": [
+    {
+      "response": "The best answer is **A: Liver**.\n",
+      "predicted": "B",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Blocking conductance of Na+ from interior to exterior",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Thin mix of plaster of paris**\n\nHere",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The correct answer is **A: 2 major 2 minor**",
+      "predicted": "C",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: DMT-2**.\n",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Calcium hydroxide +ZoE**\n",
+      "predicted": "B",
+      "ground_truth": "B",
+      "correct": true
+    },
+    {
+      "response": "The best answer is **A: Retinal pigment epithelium**",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The correct answer is **D: Formaldehyde**.\n",
+      "predicted": "C",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Trapezoidal**\n",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Dentine desensitiser is applied**.\n\n",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **D: ASD**.\n",
+      "predicted": "B",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "The correct answer is **D: TFO**\n\nHere's why:",
+      "predicted": "C",
+      "ground_truth": "C",
+      "correct": true
+    },
+    {
+      "response": "The correct answer is **D: Leucine**\n",
+      "predicted": "C",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "The correct answer is **B: Ag3Sn**\n",
+      "predicted": "C",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Hypertonic Lower Lip**\n",
+      "predicted": "B",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: 4 weeks after completion of the hygienic phase",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The correct answer is **D: 10**.\n\nHere's why",
+      "predicted": "C",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **D: Pulmonary hemorrhage**.\n",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The correct answer is **D: 50**\n",
+      "predicted": "C",
+      "ground_truth": "C",
+      "correct": true
+    },
+    {
+      "response": "The best answer is **A: Fibroma**.\n",
+      "predicted": "B",
+      "ground_truth": "B",
+      "correct": true
+    },
+    {
+      "response": "The best answer is **A: It fixes cells to the slide**\n\nHere",
+      "predicted": "B",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Whole blood**.\n",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Soft hardening treatment**.\n",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: ESWL**\n\nHere's why:",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **D: Replacement resorption**\n\nHere's why:",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The correct answer is **A: ab**",
+      "predicted": "C",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Glucose intravenously**.\n",
+      "predicted": "B",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Lymphocytic predominance**.\n",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: After return of appetite**\n\nHere's",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **D: Fungus**.\n",
+      "predicted": "B",
+      "ground_truth": "B",
+      "correct": true
+    },
+    {
+      "response": "The best answer is **A: Hyperprolactinemia**.\n",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The correct answer is **B: Pantothenic acid**\n",
+      "predicted": "C",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: No advice is required as most of the drugs",
+      "predicted": "B",
+      "ground_truth": "B",
+      "correct": true
+    },
+    {
+      "response": "The best answer is **A: Obstruction of sub-dermal lymphatics",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The correct answer is **D: Inferior oblique**.\n",
+      "predicted": "C",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **D: Median palatal cyst**\n",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The correct answer is **D: Triglycerides**.\n",
+      "predicted": "C",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "The correct answer is **D: 40%**",
+      "predicted": "C",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: The length of the pontic**\n\nHere",
+      "predicted": "B",
+      "ground_truth": "B",
+      "correct": true
+    },
+    {
+      "response": "The best answer is **A: Urine output**.\n",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Fibrous dysplasia**.\n",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: a) Zone of decomposed dentin**\n\n",
+      "predicted": "B",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Apoptotic pathway**.\n",
+      "predicted": "B",
+      "ground_truth": "B",
+      "correct": true
+    },
+    {
+      "response": "The correct answer is **A: Gingiva**\n",
+      "predicted": "C",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: 1%**\n\n",
+      "predicted": "B",
+      "ground_truth": "B",
+      "correct": true
+    },
+    {
+      "response": "The best answer is **A: Fibrin**.\n",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Agar**.\n",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: EDTA**.\n",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **D: Irradiated platelets**.\n",
+      "predicted": "B",
+      "ground_truth": "B",
+      "correct": true
+    },
+    {
+      "response": "The correct answer is **D: 6**",
+      "predicted": "C",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Coagulase**\n\nHere's why",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The correct answer is **B: Facial nerve**",
+      "predicted": "C",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Open biopsy of node**.\n",
+      "predicted": "B",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "The correct answer is **D: 16 ml 50% w",
+      "predicted": "C",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Phenol**.\n",
+      "predicted": "B",
+      "ground_truth": "B",
+      "correct": true
+    },
+    {
+      "response": "The best answer is **D: Decreases in hea rate**\n\nHere'",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Rest position**.\n",
+      "predicted": "B",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Generation 1**",
+      "predicted": "B",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "The correct answer is **A: Stylopharyngeus**",
+      "predicted": "C",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **B: NCCT**.\n\nHere's why:",
+      "predicted": "B",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **C: Unstable angina**",
+      "predicted": "B",
+      "ground_truth": "B",
+      "correct": true
+    },
+    {
+      "response": "The correct answer is **C: 6 cm**.\n",
+      "predicted": "C",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The correct answer is **A: Type 1**.\n",
+      "predicted": "C",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "The correct answer is **A: Type 1**",
+      "predicted": "C",
+      "ground_truth": "B",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Nuclear palisading**.\n",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The correct answer is **A: 10 \u03bcm \u2014 20",
+      "predicted": "C",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Observe only as it is mostly physiological jaundice**",
+      "predicted": "B",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Silicone**.\n",
+      "predicted": "B",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **D: Antenatal preeclampsia**.\n",
+      "predicted": "B",
+      "ground_truth": "B",
+      "correct": true
+    },
+    {
+      "response": "The best answer is **B: \u03b2 titanium**\n",
+      "predicted": "B",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Production of extxacellular polysaccharides like dextrans",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Slight rocking of the impression to disengage it",
+      "predicted": "B",
+      "ground_truth": "B",
+      "correct": true
+    },
+    {
+      "response": "The correct answer is **A: White**.\n",
+      "predicted": "C",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Lignocaine**.\n",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The correct answer is **D: M spike on electrophoresis**.\n",
+      "predicted": "C",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Straight**\n",
+      "predicted": "B",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **B: SLE**\n\nHere's why:\n\n",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Colitis**.\n",
+      "predicted": "B",
+      "ground_truth": "B",
+      "correct": true
+    },
+    {
+      "response": "The best answer is **A: Foramen spinosum**",
+      "predicted": "B",
+      "ground_truth": "B",
+      "correct": true
+    },
+    {
+      "response": "The correct answer is **D: 8%**\n",
+      "predicted": "C",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The correct answer is **D: Warfarin**.\n",
+      "predicted": "C",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Actinic degeneration**.\n",
+      "predicted": "B",
+      "ground_truth": "B",
+      "correct": true
+    },
+    {
+      "response": "The best answer is **A: Midbrain**",
+      "predicted": "B",
+      "ground_truth": "B",
+      "correct": true
+    },
+    {
+      "response": "The best answer is **A: Pseudomonas aerugenosa**.\n",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Calcium sulphate**.\n",
+      "predicted": "B",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: CPAP**\n\nHere's why:",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The correct answer is **C: 35:30:35",
+      "predicted": "C",
+      "ground_truth": "C",
+      "correct": true
+    },
+    {
+      "response": "The best answer is **D: Iron deficiency anemia**.\n",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Lordosis**",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: ASA**.\n",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **C: Interseptal massage with stimulators**.\n",
+      "predicted": "B",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Reconstruction plate**.\n",
+      "predicted": "B",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: Aminoglycoside and colistin**.\n\nHere",
+      "predicted": "B",
+      "ground_truth": "C",
+      "correct": false
+    },
+    {
+      "response": "The correct answer is **B: Newtonian body**.\n",
+      "predicted": "C",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The correct answer is **D: HCV**",
+      "predicted": "C",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **A: 1 week**",
+      "predicted": "B",
+      "ground_truth": "B",
+      "correct": true
+    },
+    {
+      "response": "The best answer is **A: Pulpal floor depth is 1mm**",
+      "predicted": "B",
+      "ground_truth": "B",
+      "correct": true
+    },
+    {
+      "response": "The correct answer is **D: Atropine**.\n",
+      "predicted": "C",
+      "ground_truth": "A",
+      "correct": false
+    },
+    {
+      "response": "The best answer is **D: Cannot be predictable**\n\nHere's why",
+      "predicted": "B",
+      "ground_truth": "B",
+      "correct": true
+    },
+    {
+      "response": "The best answer is **A: 50%**",
+      "predicted": "B",
+      "ground_truth": "C",
+      "correct": false
+    }
+  ]
+}
