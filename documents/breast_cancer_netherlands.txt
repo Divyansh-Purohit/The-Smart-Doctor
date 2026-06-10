@@ -1,0 +1,26 @@
+Breast Cancer in the Netherlands: Epidemiology and Statistics
+
+Breast cancer is the most common cancer among women in the Netherlands. Approximately 14,000 women are diagnosed with invasive breast cancer each year in the Netherlands. The average age at the time of diagnosis is approximately 61 years. Approximately 1 in 8 women in the Netherlands will develop breast cancer at some point in their lives.
+
+Annual Cancer Death Rates
+The annual cancer death rate in the Netherlands has been declining over recent decades due to improvements in early detection and treatment. Breast cancer mortality has decreased significantly since the introduction of population-based screening programs in the 1990s. The Netherlands introduced a national breast cancer screening program (bevolkingsonderzoek borstkanker) in 1989-1997, which screens women aged 50-75 every two years.
+
+Treatment and Survival
+The 5-year survival rate for breast cancer in the Netherlands is approximately 88%, one of the highest in Europe. Treatment advances including targeted therapies, immunotherapy, and improved surgical techniques have contributed to better outcomes. Hormone receptor-positive breast cancers account for approximately 70-75% of all cases.
+
+Risk Factors
+Known risk factors for breast cancer include age, family history, BRCA1/BRCA2 gene mutations, dense breast tissue, hormone replacement therapy, alcohol consumption, and obesity. Women with a first-degree relative with breast cancer have approximately double the average risk.
+
+Screening Guidelines
+The Dutch national screening program invites women aged 50-75 for mammography every two years. Women with a high familial risk may be offered more frequent screening starting at a younger age. Early detection through screening significantly improves survival outcomes.
+
+Research and Clinical Trials
+The Netherlands is home to several leading cancer research institutions including the Netherlands Cancer Institute (NKI-AVL) in Amsterdam. Ongoing research focuses on precision medicine, liquid biopsies, and novel immunotherapy approaches for treatment-resistant breast cancers.
+
+Triple-negative breast cancer (TNBC) accounts for approximately 15% of all breast cancers and is associated with worse prognosis compared to hormone receptor-positive subtypes. Recent advances in PARP inhibitors and immunotherapy have shown promise for TNBC treatment.
+
+Metastatic Breast Cancer
+Approximately 6-10% of patients present with metastatic disease at diagnosis (de novo metastatic breast cancer). The median survival for metastatic breast cancer has improved significantly with new targeted therapies, from approximately 18-24 months to over 3-5 years in some subtypes.
+
+Genetic Testing
+Approximately 5-10% of breast cancers are hereditary, primarily due to BRCA1 and BRCA2 mutations. The Netherlands has established comprehensive genetic counseling programs for high-risk individuals. Women with BRCA1 mutations have a lifetime risk of 57-65% for developing breast cancer.

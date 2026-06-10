@@ -1,0 +1,26 @@
+Artificial Intelligence in Skin Cancer Detection: A Review
+
+Introduction
+Skin cancer is one of the most prevalent cancers worldwide, with melanoma being the most dangerous form. Early detection significantly improves patient outcomes, with 5-year survival rates exceeding 98% for localized melanoma compared to 30% for distant metastases. Convolutional neural networks (CNNs) and Vision Transformers (ViTs) have shown remarkable promise in automated skin lesion classification.
+
+Deep Learning for Dermatology
+Studies have demonstrated that deep learning models can achieve dermatologist-level performance in skin cancer detection. The DermaMNIST dataset contains 10,015 dermatoscopic images across 7 diagnostic categories: actinic keratoses, basal cell carcinoma, benign keratosis-like lesions, dermatofibroma, melanoma, melanocytic nevi, and vascular lesions.
+
+CNN vs Transformer Architectures
+ResNet-18, a residual neural network with 18 layers and approximately 11 million parameters, has been widely used as a baseline for medical image classification. Its skip connections help mitigate the vanishing gradient problem, enabling effective training on relatively small medical datasets.
+
+Vision Transformers (ViT) divide images into fixed-size patches and process them using self-attention mechanisms. ViT-Base-16 with 86 million parameters has shown competitive performance on dermatology datasets, particularly when pre-trained on large datasets like ImageNet.
+
+Transfer Learning Benefits
+Transfer learning from ImageNet significantly improves performance on small medical datasets. Models pre-trained on ImageNet learn general visual features (edges, textures, shapes) that transfer well to medical imaging tasks. Fine-tuning only the classification head while keeping backbone layers frozen (feature extraction) or gradually unfreezing layers (fine-tuning) are common strategies.
+
+Model Interpretability in Healthcare
+In clinical settings, model interpretability is crucial for physician trust and regulatory compliance. Gradient-weighted Class Activation Mapping (GradCAM) visualizes the regions of an image that most influence a CNN's decision by computing the gradient of the class score with respect to the final convolutional layer's feature maps.
+
+Attention Rollout for Vision Transformers recursively multiplies attention matrices across all transformer layers, accounting for residual connections, to produce a single attention map showing which image patches contribute most to the final prediction.
+
+Dataset Challenges
+Medical imaging datasets are typically small and imbalanced. The DermaMNIST training set contains approximately 7,000 images with significant class imbalance — melanocytic nevi are the most common class (67%), while dermatofibroma accounts for only 1.1% of samples. Data augmentation and class-weighted loss functions can help address this imbalance.
+
+Clinical Integration
+AI-assisted diagnosis tools are increasingly being integrated into clinical workflows. Studies show that AI-human collaboration outperforms either AI or humans alone in dermoscopy interpretation. Regulatory frameworks for AI medical devices are evolving, with the FDA and CE mark providing approval pathways in the US and Europe respectively.
