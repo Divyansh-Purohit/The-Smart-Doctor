@@ -2,8 +2,6 @@
 venv/
 .DS_Store
 
-# large model weights — exceeds GitHub's 100MB limit
 outputs/vit_b16_best.pth
 
-# intermediate training checkpoints (not needed for inference)
 outputs/gemma_lora/checkpoint-*/
