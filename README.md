@@ -2,8 +2,6 @@
 
 An end-to-end medical AI pipeline for skin cancer detection and clinical consultation. The project covers four areas: vision-based lesion classification, model explainability, LLM fine-tuning, and retrieval-augmented generation.
 
-## What's in the notebook
-
 **Part 1 — Vision Diagnostics**
 Fine-tunes ResNet-18 and ViT-Base-16 on the DermaMNIST dataset (7-class skin lesion classification). Compares accuracy, training dynamics, and confusion matrices for both architectures.
 
@@ -64,12 +62,3 @@ outputs/
   *.png                  training curves, confusion matrices, heatmaps
 requirements.txt
 ```
-
-## Results
-
-| Model | Test Accuracy |
-|---|---|
-| ResNet-18 | see notebook output |
-| ViT-Base-16 | see notebook output |
-| Gemma-3-270M-IT (zero-shot) | see notebook output |
-| Gemma-3-270M-IT (LoRA fine-tuned) | see notebook output |
